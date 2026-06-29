@@ -1,0 +1,99 @@
+canonical_identifier: bkk:krp/KR3ep079/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ep079/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 葉氏醫案存真
+  identifiers:
+    krp: KR3ep079
+  tags:
+    kr-categories: KR3ep
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ep079.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ep079_000-jc.yaml, hash: 'sha256:31010e2f2c6739da9a0803089ae95386c705c33186c09d283fe4a9e0480b70e1'}
+  - {seq: 1, filename: KR3ep079_001-jc.yaml, hash: 'sha256:64cd7040fa78c6ed22e850574e92c26794d5be1c688c1eccd714e3947c057d52'}
+  - {seq: 2, filename: KR3ep079_002-jc.yaml, hash: 'sha256:5674ed672c3ecfa001e70fa1a82d45e25c6b2cf5bbb745cd77de596385623a20'}
+  - {seq: 3, filename: KR3ep079_003-jc.yaml, hash: 'sha256:223b58658b0d73b81d238f3b2ab3a1f7018f6eef55d46d29be77363c2fa38c33'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ep079_000-jc.markers.yaml, hash: 'sha256:ce64ce46ec8a1bc222ca0c7c2fc83ef3d6b1e10ab60c6fda9f702e372644326b'}
+  - {seq: 1, role: markers, filename: assets/KR3ep079_001-jc.markers.yaml, hash: 'sha256:094128e5fa11a2a4d43dcd7f7d3d3cfc16e9c83ba923b6f720fa4a51d7c8f4da'}
+  - {seq: 2, role: markers, filename: assets/KR3ep079_002-jc.markers.yaml, hash: 'sha256:0c1a8091e1eb51ac65329a16db8dc9f50b06c717550f2abda5daf5ef347beaab'}
+  - {seq: 3, role: markers, filename: assets/KR3ep079_003-jc.markers.yaml, hash: 'sha256:6b094762a8f5a20463a62a0121db6706857b1959b95ad5b02e388d3eea6b9170'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ep079_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 378
+  label: 葉序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep079_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 381
+  label: 石敘
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep079_jc_000-d4.h1s1
+    span:
+    - body
+    - 381
+    - 792
+  label: 胡敘
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ep079_jc_001-d5.h1s1
+    span:
+    - body
+    - 0
+    - 13771
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ep079_jc_002-d6.h1s1
+    span:
+    - body
+    - 0
+    - 14931
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ep079_jc_002-d6d10
+    span:
+    - body
+    - 184
+    - 14931
+  label: 春溫症附暑濕熱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ep079_jc_003-d7.h1s1
+    span:
+    - body
+    - 0
+    - 15866
+  label: 卷三
+  type: section
+  level: 1
+hash: sha256:0575ddc015a730bf8586ef0e845cddbdb20bf29ec937410ecc0d12e0ed9a99a3
