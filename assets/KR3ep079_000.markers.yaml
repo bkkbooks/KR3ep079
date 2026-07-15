@@ -22,6 +22,7 @@ markers:
   - {type: 'tls:seg', offset: 43, content: '', id: KR3ep079_jc_000-d2.p2s8}
   - {type: punctuation, offset: 47, content: ，, id: KR3ep079_jc_000-bkkpn10}
   - {type: 'tls:seg', offset: 47, content: '', id: KR3ep079_jc_000-d2.p2s9}
+  - {type: substitution, offset: 53, original: 冊, replacement: 册, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16267}}
   - {type: punctuation, offset: 54, content: ，, id: KR3ep079_jc_000-bkkpn11}
   - {type: 'tls:seg', offset: 54, content: '', id: KR3ep079_jc_000-d2.p2s10}
   - {type: punctuation, offset: 58, content: ，, id: KR3ep079_jc_000-bkkpn12}
@@ -52,6 +53,7 @@ markers:
   - {type: 'tls:seg', offset: 140, content: '', id: KR3ep079_jc_000-d2.p2s22}
   - {type: punctuation, offset: 144, content: ，, id: KR3ep079_jc_000-bkkpn26}
   - {type: 'tls:seg', offset: 144, content: '', id: KR3ep079_jc_000-d2.p2s23}
+  - {type: substitution, offset: 156, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: punctuation, offset: 160, content: ，, id: KR3ep079_jc_000-bkkpn27}
   - {type: 'tls:seg', offset: 160, content: '', id: KR3ep079_jc_000-d2.p2s24}
   - {type: punctuation, offset: 164, content: ，, id: KR3ep079_jc_000-bkkpn28}
@@ -208,12 +210,14 @@ markers:
   - {type: 'tls:seg', offset: 223, content: '', id: KR3ep079_jc_000-d3.p2s39}
   - {type: punctuation, offset: 229, content: ，, id: KR3ep079_jc_000-bkkpn41}
   - {type: 'tls:seg', offset: 229, content: '', id: KR3ep079_jc_000-d3.p2s40}
+  - {type: substitution, offset: 231, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: punctuation, offset: 235, content: ，, id: KR3ep079_jc_000-bkkpn42}
   - {type: 'tls:seg', offset: 235, content: '', id: KR3ep079_jc_000-d3.p2s41}
   - {type: punctuation, offset: 241, content: ，, id: KR3ep079_jc_000-bkkpn43}
   - {type: 'tls:seg', offset: 241, content: '', id: KR3ep079_jc_000-d3.p2s42}
   - {type: punctuation, offset: 245, content: ，, id: KR3ep079_jc_000-bkkpn44}
   - {type: 'tls:seg', offset: 245, content: '', id: KR3ep079_jc_000-d3.p2s43}
+  - {type: substitution, offset: 248, original: 予, replacement: 豫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20745}}
   - {type: punctuation, offset: 249, content: 。, id: KR3ep079_jc_000-bkkpn45}
   - {type: 'tls:seg', offset: 249, content: '', id: KR3ep079_jc_000-d3.p2s44}
   - {type: punctuation, offset: 253, content: ，, id: KR3ep079_jc_000-bkkpn46}
@@ -277,6 +281,7 @@ markers:
   - {type: 'tls:seg', offset: 425, content: '', id: KR3ep079_jc_000-d4.p2s8}
   - {type: punctuation, offset: 429, content: ，, id: KR3ep079_jc_000-bkkpn73}
   - {type: 'tls:seg', offset: 429, content: '', id: KR3ep079_jc_000-d4.p2s9}
+  - {type: substitution, offset: 432, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16587}}
   - {type: punctuation, offset: 435, content: ，, id: KR3ep079_jc_000-bkkpn74}
   - {type: 'tls:seg', offset: 435, content: '', id: KR3ep079_jc_000-d4.p2s10}
   - {type: punctuation, offset: 439, content: 。, id: KR3ep079_jc_000-bkkpn75}
@@ -407,4 +412,4 @@ markers:
   - {type: 'tls:seg', offset: 779, content: '', id: KR3ep079_jc_000-d4.p4s1}
   - {type: xml-element, offset: 792, content: '', id: KR3ep079_jc_000-d4p4_end, name: p, role: close, attrs: {'xml:id': KR3ep079_jc_000-d4p4}}
   back: []
-hash: sha256:0ad2bbf3a2b2983bbfb2073fd8327edc0d183438cda37e301bb449395824d34a
+hash: sha256:c926f4137e2294d24795b4f5816f58d215643df6e87603a73641b11a3157559c
